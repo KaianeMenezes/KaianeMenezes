@@ -105,4 +105,10 @@ Sou detalhista e pró-ativa, características que me ajudam a aprender novas tec
 
 </p>
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/KaianeMenezes/KaianeMenezes/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/KaianeMenezes/KaianeMenezes/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/KaianeMenezes/KaianeMenezes/output/github-contribution-grid-snake.svg">
+</picture>
 
+_generated with [KaianeMenezes/snk](https://github.com/KaianeMenezes/snk)_
