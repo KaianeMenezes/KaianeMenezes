@@ -20,11 +20,11 @@ Sou uma pessoa curiosa e dedicada, com experiência prática em ferramentas e co
 
 Programação em Python: desenvolvimento de soluções utilizando Inteligência Artificial, Pandas para análise de dados e automação de processos;
 
-Versionamento de Código: uso do Git e GitHub para criação, atualização e exclusão de projetos, além de compreensão de commits e push.
+Versionamento de Código: uso do Git e GitHub para criação, atualização e exclusão de projetos, além de compreensão de commits e push;
 
-Banco de Dados SQL: uso de ferramentas como pgAdmin para gerenciamento de usuários e dados.
+Banco de Dados SQL: uso de ferramentas como pgAdmin para gerenciamento de usuários e dados;
 
-Ambientes de Desenvolvimento: experiência prática com Visual Studio e PyCharm, facilitando a criação e manutenção de projetos complexos.
+Ambientes de Desenvolvimento: experiência prática com Visual Studio e PyCharm, facilitando a criação e manutenção de projetos complexos;
 
 Além disso, tenho interesse por organização de projetos e usabilidade, buscando sempre entender não só a parte técnica, mas também a experiência do usuário.
 
