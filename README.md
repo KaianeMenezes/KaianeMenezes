@@ -1,8 +1,21 @@
-##🌸Kaiane Menezes
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&color=ff79c6"/>
 
-**'Desenvolvedora Back-End'**
+<br>
 
-Olá, meu nome é Kaiane Menezes Bezerra dos Santos. Tenho interesse na área de Tecnologia da Informação (TI) e busco constantemente aprender e aprimorar meus conhecimentos nesse campo.
+<div align="center">
+  
+  <b>`Desenvolvedora Back-End`</b>
+  <samp>
+      <br>
+<div align="center" width="100%'>
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=pixelify+Sans&pause=1000&color=8F5A82&width=225&height=93&lines=Ol%C3%A1!+Me+Chamo+Kaiane)](https://git.io/typing-svg)
+  </samp>
+</div>
+
+
+
+Tenho interesse na área de Tecnologia da Informação (TI) e busco constantemente aprender e aprimorar meus conhecimentos nesse campo.
 Sou uma pessoa curiosa e dedicada, com experiência prática em ferramentas e conceitos fundamentais, como:
 
 Programação em Python: desenvolvimento de soluções utilizando Inteligência Artificial, Pandas para análise de dados e automação de processos;
@@ -19,96 +32,59 @@ Sou detalhista e pró-ativa, características que me ajudam a aprender novas tec
 
 ---
 
-<p align="left">
-  <a href="https://github.com/KaianeMenezes?tab=repositories&sort=stargazers">
-        <img 
-            alt="Total de estrelas" 
-            title="Total de estrelas GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/stars/KaianeMenezes?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas"
-        />  
-     </a>
-    <a href="https://github.com/KaianeMenezes?tab=followers">
-        <img 
-            alt="Seguidores" 
-            title="Me siga no GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/followers/KaianeMenezes?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
-        />
-    </a>
-</p>
+<div align="center">
+  <img height=180 align="center" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api/?username=kamillyvm&show_icons=true&count_private=true&rank_icon=github&theme=omni&font=Iosevka"/>
+  <img height=180 align="center" alt="Top Language" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KaianeMenezes&layout=compact&font=Iosevka&langs_count=16&theme=omni"/>
+  <br>
+  <br>
+  <img align="center" alt="Top Language" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=KaianeMenezes&theme=omni"/>
+</div>
 
----
+   <img align="right" height="200" src="https://imgur.com/AWMVVvn.png"/>
+   
+<div align="center" style="display: inline_block"><br>
+  <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
+  <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />
+  <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg"/>
+  <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg"/>
+  <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/aarch64/aarch64-original.svg"/>
 
-    ###💻Linguagens e Tecnologias
+ <div/>
 
-<img 
-    align="left" 
-    alt="HTML"
-    title="HTML" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" 
-/>
-<img 
-  align="left" 
-    alt="Git" 
-    title="Git"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
-    />
-<img 
-    align="left" 
-    alt="Python" 
-    title="Python"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
-/>
-<img
-    align="left"
-    alt="SQL"
-    title="SQL"
-    width="30px"
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/aarch64/aarch64-original.svg" />
-           
-    />
+<div align="center">
+  <samp>
+    <b>
+     Contact me:
+    </b>
+    
+  </samp>
+  <br>
+  <br>
 
-<img 
-    align="left"
-    alt="PotgreSQL"
-    title="PotgreSQL"
-    width="30px"
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/aarch64/aarch64-original.svg" />
- />
-<br/>
-<br/>
-          
-    ###📈Estatísticas
+  [![Gmail](https://img.shields.io/badge/Gmail-6e3a5d?style=for-the-badge&logo=gmail&logoColor=fff)](mailto:kaianebts@gmail.com)
+  [![Instagram](https://img.shields.io/badge/Instagram-6e3a5d?style=for-the-badge&logo=instagram&logoColor=fff)](https://www.instagram.com/panda_kaih/?next=%2F)
+  [![Linkedin](https://img.shields.io/badge/LinkedIn-6e3a5d?style=for-the-badge&logo=linkedin&logoColor=fff)](https://www.linkedin.com/in/kaiane-menezes-00856225a/)
+  
+</div>
+   </samp>
+  </p>
+</div>
+<br>
 
-<p>
-  <img 
-    align="left" 
-    alt="GitHub Stats" 
-    height="200" 
-    style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=KaianeMenezes&show_icons=true&theme=synthwave&include_all_commits=true&locale=pt-br" 
-  />
+</details>
 
-<img 
-      align="left" 
-      alt="GitHub Stats" 
-      height="200" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=KaianeMenezes&theme=synthwave&layout=compact&custom_title=Tecnologias&langs_count=5" 
-  />
+<br>
 
-</p>
-
+<div align="center">
+  <p align="center"><img align="center" src="https://visit-counter.vercel.app/counter.png?page=https%3A%2F%2Fgithub.com%2FKaianeMenezes&s=30&c=ff79c6&bg=00000000&no=2&ff=digi&tb=Profile+Visits%3A++&ta=" /></p> 
+</div>
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/KaianeMenezes/KaianeMenezes/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/KaianeMenezes/KaianeMenezes/output/github-contribution-grid-snake.svg">
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/KaianeMenezes/KaianeMenezes/output/github-contribution-grid-snake.svg">
 </picture>
+<br>
+
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=ff79c6&height=100&section=footer"/>
 
 
