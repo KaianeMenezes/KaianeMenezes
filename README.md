@@ -48,7 +48,6 @@ Sou detalhista e pró-ativa, características que me ajudam a aprender novas tec
   <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg"/>
   <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg"/>
   <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/aarch64/aarch64-original.svg"/>
-
  <div/>
 
 <div align="center">
@@ -64,7 +63,6 @@ Sou detalhista e pró-ativa, características que me ajudam a aprender novas tec
   [![Gmail](https://img.shields.io/badge/Gmail-6e3a5d?style=for-the-badge&logo=gmail&logoColor=fff)](mailto:kaianebts@gmail.com)
   [![Instagram](https://img.shields.io/badge/Instagram-6e3a5d?style=for-the-badge&logo=instagram&logoColor=fff)](https://www.instagram.com/panda_kaih/?next=%2F)
   [![Linkedin](https://img.shields.io/badge/LinkedIn-6e3a5d?style=for-the-badge&logo=linkedin&logoColor=fff)](https://www.linkedin.com/in/kaiane-menezes-00856225a/)
-  
 </div>
    </samp>
   </p>
