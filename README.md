@@ -74,8 +74,10 @@ Sou detalhista e pró-ativa, características que me ajudam a aprender novas tec
 <br>
 
 <div align="center">
-  <p align="center"><img align="center" src="https://visit-counter.vercel.app/counter.png?page=https%3A%2F%2Fgithub.com%2FKaianeMenezes&s=30&c=ff79c6&bg=00000000&no=2&ff=digi&tb=Profile+Visits%3A++&ta=" /></p> 
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=KaianeMenezes.KaianeMenezes&right_color=ff79c6&left_color=00000000" alt="Profile Visits" />
 </div>
+
+
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/KaianeMenezes/KaianeMenezes/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/KaianeMenezes/KaianeMenezes/output/github-contribution-grid-snake.svg">
