@@ -32,54 +32,56 @@ Sou detalhista e pró-ativa, características que me ajudam a aprender novas tec
 
 ---
 
-
-## 🛠 Habilidades
-
 <div align="center">
-### Linguagens
-<br>
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=fff)
-![Jupyter](https://img.shields.io/badge/Jupyter-FFCA08?style=for-the-badge&logo=jupyter&logoColor=000)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=fff)
-</div>
-
-<div align="center">
-### Ferramentas
-<br>
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=fff)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=fff)
-![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91?style=for-the-badge&logo=visual-studio&logoColor=fff)
-![PyCharm](https://img.shields.io/badge/PyCharm-000000?style=for-the-badge&logo=pycharm&logoColor=fff)
-</div>
-
----
-
-## 📊 Estatísticas do GitHub
-<div align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api/?username=KaianeMenezes&show_icons=true&count_private=true&theme=omni&font=Iosevka"/>
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KaianeMenezes&layout=compact&font=Iosevka&langs_count=16&theme=omni"/>
+  <img height=180 align="center" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api/?username=KaianeMenezes&show_icons=true&count_private=true&rank_icon=github&theme=omni&font=Iosevka"/>
+  <img height=180 align="center" alt="Top Language" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KaianeMenezes&layout=compact&font=Iosevka&langs_count=16&theme=omni"/>
   <br>
-  <img alt="Perfil Resumo" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=KaianeMenezes&theme=omni"/>
+  <br>
+  <img align="center" alt="Top Language" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=KaianeMenezes&theme=omni"/>
 </div>
 
----
+   <img align="right" height="200" src="https://imgur.com/AWMVVvn.png"/>
+   
+<div align="center" style="display: inline_block"><br>
+  <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
+  <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />
+  <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg"/>
+  <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg"/>
+  <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/aarch64/aarch64-original.svg"/>     
+</div>
 
-
-## 📫 Contato
 <div align="center">
+  <samp>
+    <b>
+     Contact me:
+    </b>
+    
+  </samp>
+  <br>
+  <br>
+
   [![Gmail](https://img.shields.io/badge/Gmail-6e3a5d?style=for-the-badge&logo=gmail&logoColor=fff)](mailto:kaianebts@gmail.com)
   [![Instagram](https://img.shields.io/badge/Instagram-6e3a5d?style=for-the-badge&logo=instagram&logoColor=fff)](https://www.instagram.com/panda_kaih/?next=%2F)
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-6e3a5d?style=for-the-badge&logo=linkedin&logoColor=fff)](https://www.linkedin.com/in/kaiane-menezes-00856225a/)
+  [![Linkedin](https://img.shields.io/badge/LinkedIn-6e3a5d?style=for-the-badge&logo=linkedin&logoColor=fff)](https://www.linkedin.com/in/kaiane-menezes-00856225a/)
 </div>
+   </samp>
+  </p>
+</div>
+<br>
 
----
+</details>
 
-## 📈 Contribuições
-<p align="center">
-  <img alt="Contribuições" src="https://raw.githubusercontent.com/KaianeMenezes/KaianeMenezes/output/github-contribution-grid-snake.svg">
-</p>
+<br>
 
----
+<div align="center">
+  <p align="center"><img align="center" src="https://visit-counter.vercel.app/counter.png?page=https%3A%2F%2Fgithub.com%2FKaianeMenezes&s=30&c=ff79c6&bg=00000000&no=2&ff=digi&tb=Profile+Visits%3A++&ta=" /></p> 
+</div>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/KaianeMenezes/KaianeMenezes/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/KaianeMenezes/KaianeMenezes/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/KaianeMenezes/KaianeMenezes/output/github-contribution-grid-snake.svg">
+</picture>
+<br>
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=ff79c6&height=100&section=footer"/>
 
