@@ -4,7 +4,7 @@
 
 <div align="center">
   
-  <b>`Desenvolvedora Back-End`</b>
+  <b>`Programadora Full-Stack`</b>
   <samp>
       <br>
 <div align="center" width="100%'>
