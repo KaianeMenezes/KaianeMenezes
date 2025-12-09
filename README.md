@@ -35,25 +35,36 @@ Sou detalhista e pró-ativa, características que me ajudam a aprender novas tec
 ---
 
 <div align="center">
-  <img height=180 align="center" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api/?username=KaianeMenezes&show_icons=true&count_private=true&rank_icon=github&theme=omni&font=Iosevka"/>
-  <img height=180 align="center" alt="Top Language" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KaianeMenezes&layout=compact&font=Iosevka&langs_count=16&theme=omni"/>
-  <br>
-  <br>
-  <img align="center" alt="Top Language" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=KaianeMenezes&theme=omni"/>
+  
+  <img height="180" alt="GitHub Stats" 
+       src="https://github-readme-stats.vercel.app/api?username=KaianeMenezes&show_icons=true&include_all_commits=true&count_private=true&theme=omni"/>
+
+  <img height="180" alt="Top Languages" 
+       src="https://github-readme-stats.vercel.app/api/top-langs/?username=KaianeMenezes&layout=compact&langs_count=16&theme=omni"/>
+
+  <br><br>
+
+  <img alt="Profile Details" 
+       src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=KaianeMenezes&theme=omni"/>
+
 </div>
 
-   <img align="right" height="200" src="https://imgur.com/AWMVVvn.png"/>
-   
+<img align="right" height="200" src="https://imgur.com/AWMVVvn.png"/>
+
 <div align="center" style="display: inline_block"><br>
+
   <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
   <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />
   <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg"/>
   <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg"/>
   <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/aarch64/aarch64-original.svg"/>     
   <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg"/>
+
 </div>
 
 <div align="center">
+
+
   <samp>
     <b>
      Contact me:
