@@ -1,16 +1,4 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&color=ff79c6"/>
-
-<br>
-
-<div align="center">
-
-  <b>Programadora Full-Stack</b>
-
-  <br><br>
-
-  <img src="https://readme-typing-svg.demolab.com?font=Pixelify+Sans&pause=1000&color=8F5A82&width=240&height=90&lines=Ol%C3%A1!+Me+Chamo+Kaiane"/>
-
-</div>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&color=ff79c6"/> <br> <div align="center"> <b>Programadora Full-Stack</b> <samp> <br> <div align="center" width="100%'> [![Typing SVG](https://readme-typing-svg.demolab.com?font=pixelify+Sans&pause=1000&color=8F5A82&width=225&height=93&lines=Ol%C3%A1!+Me+Chamo+Kaiane)](https://git.io/typing-svg) </samp> </div>
 
 <br>
 
