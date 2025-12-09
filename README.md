@@ -18,15 +18,15 @@
 Tenho interesse na área de Tecnologia da Informação (TI) e busco constantemente aprender e aprimorar meus conhecimentos nesse campo.
 Sou uma pessoa curiosa e dedicada, com experiência prática em ferramentas e conceitos fundamentais, como:
 
-Programação Front-end: desenvolvimento de páginas e interfaces utilizando HTML, CSS e JavaScript, com foco em responsividade, organização e boas práticas de usabilidade;
+**Programação Front-end:** desenvolvimento de páginas e interfaces utilizando HTML, CSS e JavaScript, com foco em responsividade, organização e boas práticas de usabilidade;
 
-Programação em Python: desenvolvimento de soluções utilizando Inteligência Artificial, Pandas para análise de dados e automação de processos;
+**Programação em Python:** desenvolvimento de soluções utilizando Inteligência Artificial, Pandas para análise de dados e automação de processos;
 
-Versionamento de Código: uso do Git e GitHub para criação, atualização e exclusão de projetos, além de compreensão de commits e push;
+**Versionamento de Código:** uso do Git e GitHub para criação, atualização e exclusão de projetos, além de compreensão de commits e push;
 
-Banco de Dados SQL: uso de ferramentas como pgAdmin para gerenciamento de usuários e dados;
+**Banco de Dados SQL:** uso de ferramentas como pgAdmin para gerenciamento de usuários e dados;
 
-Ambientes de Desenvolvimento: experiência prática com Visual Studio e PyCharm, facilitando a criação e manutenção de projetos complexos;
+**Ambientes de Desenvolvimento:** experiência prática com Visual Studio e PyCharm, facilitando a criação e manutenção de projetos complexos;
 
 Além disso, tenho interesse por organização de projetos e usabilidade, buscando sempre entender não só a parte técnica, mas também a experiência do usuário.
 
