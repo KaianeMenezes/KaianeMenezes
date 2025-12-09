@@ -36,15 +36,18 @@ Sou detalhista e pró-ativa, características que me ajudam a aprender novas tec
 
 <div align="center">
 
+  <!-- GitHub Stats -->
   <img height="180" alt="GitHub Stats"
-       src="https://github-readme-stats-himanshu.vercel.app/api?username=KaianeMenezes&show_icons=true&include_all_commits=true&count_private=true&theme=omni"/>
+       src="https://github-readme-stats.vercel.app/api?username=KaianeMenezes&show_icons=true&include_all_commits=true&count_private=true&theme=omni"/>
 
+  <!-- Top Languages -->
   <img height="180" alt="Top Languages"
-       src="https://github-readme-stats-himanshu.vercel.app/api/top-langs/?username=KaianeMenezes&layout=compact&langs_count=16&theme=omni"/>
+       src="https://github-readme-stats.vercel.app/api/top-langs/?username=KaianeMenezes&layout=compact&langs_count=10&theme=omni"/>
 
   <br><br>
 
-  <img alt="Profile Details" 
+  <!-- Profile Summary Cards -->
+  <img alt="Profile Details"
        src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=KaianeMenezes&theme=omni"/>
 
 </div>
