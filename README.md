@@ -18,6 +18,8 @@
 Tenho interesse na área de Tecnologia da Informação (TI) e busco constantemente aprender e aprimorar meus conhecimentos nesse campo.
 Sou uma pessoa curiosa e dedicada, com experiência prática em ferramentas e conceitos fundamentais, como:
 
+Programação Front-end: desenvolvimento de páginas e interfaces utilizando HTML, CSS e JavaScript, com foco em responsividade, organização e boas práticas de usabilidade;
+
 Programação em Python: desenvolvimento de soluções utilizando Inteligência Artificial, Pandas para análise de dados e automação de processos;
 
 Versionamento de Código: uso do Git e GitHub para criação, atualização e exclusão de projetos, além de compreensão de commits e push;
