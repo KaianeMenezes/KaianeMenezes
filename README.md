@@ -6,11 +6,13 @@
   
   <b>Programadora Full-Stack</b> 
   <samp> 
-  <br>
+    <br>
   <div align="center" width="100%'>
+
+    
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=pixelify+Sans&pause=1000&color=8F5A82&width=225&height=93&lines=Ol%C3%A1!+Me+Chamo+Kaiane)](https://git.io/typing-svg) 
-    </samp> 
-  </div> 
+   </samp> 
+</div> 
     
     
 Tenho interesse na área de **Tecnologia da Informação (TI)** e busco constantemente aprender e aprimorar meus conhecimentos nesse campo.
