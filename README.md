@@ -15,7 +15,7 @@
 
 
 
-Tenho interesse na área de Tecnologia da Informação (TI) e busco constantemente aprender e aprimorar meus conhecimentos nesse campo.
+Tenho interesse na área de **Tecnologia da Informação (TI)** e busco constantemente aprender e aprimorar meus conhecimentos nesse campo.
 Sou uma pessoa curiosa e dedicada, com experiência prática em ferramentas e conceitos fundamentais, como:
 
 **Programação Front-end:** desenvolvimento de páginas e interfaces utilizando HTML, CSS e JavaScript, com foco em responsividade, organização e boas práticas de usabilidade;
