@@ -35,22 +35,21 @@ Sou detalhista e pró-ativa, características que me ajudam a aprender novas tec
 ---
 
 <div align="center">
-
-  <!-- GitHub Stats -->
+  <!-- GitHub Stats (oficial) - com cache control e sem borda -->
   <img height="180" alt="GitHub Stats"
-       src="https://github-readme-stats.vercel.app/api?username=KaianeMenezes&show_icons=true&include_all_commits=true&count_private=true&theme=omni"/>
+       src="https://github-readme-stats.vercel.app/api?username=KaianeMenezes&show_icons=true&include_all_commits=true&count_private=true&theme=omni&hide_border=true&cache_seconds=1800"/>
 
-  <!-- Top Languages -->
+  <!-- Top Languages (oficial) -->
   <img height="180" alt="Top Languages"
-       src="https://github-readme-stats.vercel.app/api/top-langs/?username=KaianeMenezes&layout=compact&langs_count=10&theme=omni"/>
+       src="https://github-readme-stats.vercel.app/api/top-langs/?username=KaianeMenezes&layout=compact&langs_count=8&theme=omni&hide_border=true&cache_seconds=1800"/>
 
   <br><br>
 
-  <!-- Profile Summary Cards -->
+  <!-- Profile Summary Cards (pode falhar às vezes) -->
   <img alt="Profile Details"
-       src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=KaianeMenezes&theme=omni"/>
-
+       src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=KaianeMenezes&theme=omni&cache_seconds=1800"/>
 </div>
+
 
 ---
 
